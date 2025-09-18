@@ -3,7 +3,7 @@
   
 *The first word might be “scam”, “scum”, or “spam”. You decide…*  
   
-![COLLISION AHEAD](Attachments/Image.png)  
+![COLLISION AHEAD](/assets/img/posts/2025-09-18-car-history-checks/Image.png)  
   
   
 This one goes to selling your own used car. Believe it or not but not everyone on Facebook Marketplace is a real person.  

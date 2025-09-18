@@ -1,7 +1,7 @@
 # Awesome - Podcasts  
 *In the spirit of a lot of **GitHub **directories, here’s an initial contribution of my lists:*  
   
-![Image](Attachments/Image.png)  
+![Image](/assets/img/posts/2025-09-18-awesome-podcasts/Image.png)  
   
 ### Security Now  
 Running continuously for over 20 years,* Steve Gibson *is a live-long-and-prosper legend.  
