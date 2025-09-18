@@ -1,7 +1,12 @@
-# Awesome - Podcasts  
+---
+layout: post
+title: Awesome - Podcasts
+category: awesomes
+date: 2025-09-18 18:05:00 +0800
+image: /assets/img/posts/2025-09-18-awesome-podcasts/Image.png
+---
+
 *In the spirit of a lot of **GitHub **directories, here’s an initial contribution of my lists:*  
-  
-![Image](/assets/img/posts/2025-09-18-awesome-podcasts/Image.png)  
   
 ### Security Now  
 Running continuously for over 20 years,* Steve Gibson *is a live-long-and-prosper legend.  
