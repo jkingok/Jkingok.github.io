@@ -1,3 +1,11 @@
+---
+layout: post
+title: Awesome - Podcasts
+category: awesomes
+date: 2025-09-18 18:05:00 +0800
+image: /assets/img/posts/2025-09-18-awesome-podcasts/Image.png
+---
+
 # Awesome - Podcasts  
 *In the spirit of a lot of **GitHub **directories, here’s an initial contribution of my lists:*  
   

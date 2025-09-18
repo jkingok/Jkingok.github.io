@@ -1,4 +1,11 @@
-# S*m watch: Car history checks  
+---
+layout: post
+title: "S*m watch: Car history checks"
+category: alerts
+date: 2025-09-18 18:00 +0800
+image: /assets/img/posts/2025-09-18-car-history-checks/Image.png 
+---
+
 *The first in a series of “heads up” articles about things that I see in real life that you need to be aware of.*  
   
 *The first word might be “scam”, “scum”, or “spam”. You decide…*  

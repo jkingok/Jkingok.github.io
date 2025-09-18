@@ -2,6 +2,7 @@
 layout: post
 title: The Ultimate Archives
 date: 2025-09-16 19:45 +0800
+category: diary
 ---
 
 If you want proof that half my life, as I state, has indeed passed for me, then follow these links back in time:
