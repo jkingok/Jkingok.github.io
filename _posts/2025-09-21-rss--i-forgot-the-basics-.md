@@ -14,14 +14,12 @@ Anyway it’s fixed now, as is my vanity domain name. Find this blog at [Blog.jk
   
 Shortly I’ll add it into the site template so feed readers can detect it too.  
   
-*Tip*: While the Chirpy theme will add an RSS icon to the sidebar, it does not appear to automatically add the meta tags that **Jekyll-feed** offers and that readers need to be automatic. To fix that, add  
-  
-```
-{% feed_meta %}
+**Update:** I thought I'd fixed this properly but I hadn't. Contrary to my previous suggestion you don't need to add `jekyll-feed`, in fact it'll conflict. But you probably
+want the extra `meta` tag nonetheless. For *Chirpy* a way of doing this is to add in an `_includes/metadata-hook.html` with
 
+```html
+<link rel="alternate" href="https://blog.jking.id.au/feed.xml" type="application/rss+xml" />
 ```
-  
-To a file called _includes/metadata-hook.html .  
-  
+
 You’re welcome.  
 🛠️  
