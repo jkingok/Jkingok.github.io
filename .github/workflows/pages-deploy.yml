@@ -42,20 +42,6 @@ jobs:
           # on the runner without trying to commit them back to your repo
           compressOnly: true 
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-
-      - name: Build with Jekyll
-        run: bundle exec jekyll build
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
-
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
