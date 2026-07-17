@@ -23,10 +23,10 @@ My private in-development repositories are in *AWS CodeCommit* and my public one
 **MyPyStub** allows you to access all of your Python code in the **Files** app under *On My iPhone*.  
   
 **MyPyStub** works best with modules written from its own template. So the first step is to go into the *Settings* tab, and enter a name next to *New Project* and then tap *Add*. This creates a folder of code in **Files**.  
-![Launcher](assets/img/posts/2026-07-17-how-i-use-mypystub-and-working-copy-together0CFD25D7-5C03-4F60-92E3-6B49E7AD21CC.png)  
+![Launcher](assets/img/posts/2026-07-17-how-i-use-mypystub-and-working-copy-together/0CFD25D7-5C03-4F60-92E3-6B49E7AD21CC.png)  
   
 Now you want to turn this into a version controlled repository! In **Working Copy** this works via the "*Setup synced directory*" option. This copies (and keeps copying) the code between **MyPyStub** and **Working Copy**. It also creates a Git repository on the iPhone. You can then backup the repository by adding a *Remote* and performing *Pushes*.  
-![Clone repository](assets/img/posts/2026-07-17-how-i-use-mypystub-and-working-copy-together783AB605-FDBE-404F-A458-7161B361CD26.png)  
+![Clone repository](assets/img/posts/2026-07-17-how-i-use-mypystub-and-working-copy-together/783AB605-FDBE-404F-A458-7161B361CD26.png)  
 Now you're safe to go back into **MyPyStub** and experiment with the module. Upon a reload (pull down) on the *List* tab, the module will appear and you can tap it to run it. It will switch to the *Script* tab and then take over the window - if it doesn't, an error is displayed either in place or in the *Logs* tab (you will need to scroll down and tap *Reload*).  
   
 You can then, upon proving it works, go back to **Working Copy** and start editing the module (beginning in app.py).  
