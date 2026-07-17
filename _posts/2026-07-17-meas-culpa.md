@@ -1,8 +1,8 @@
 ---
 layout: post
-date:"2026-07-17 17:22:34 +0800"
-title:"Mea's culpa"
-image:"assets/img/posts/2026-07-17-meas-culpa.png"
+date: "2026-07-17 17:22:34 +0800"
+title: "Mea's culpa"
+image: "assets/img/posts/2026-07-17-meas-culpa.png"
 ---
 #   
 This is a *no-op *(programming lingo) *mea-culpa* post in the hope that the workflow truly works now!  
