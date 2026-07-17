@@ -1,8 +1,9 @@
 
 ---
+layout: post
 date: 2026-07-09 11:17:00
 image: assets/img/posts/2026-07-09-the-long-way-to-a-post.png
-title: The long way to a post
+title: "The long way to a post"
 ---
 This is not the way you want to make a post quickly, but the long way now is usually an investment in the future and I hope that's the case here.
 

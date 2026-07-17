@@ -1,8 +1,10 @@
 
 ---
+layout: post
 date: 2026-07-15 20:47:35.174503
 image: assets/img/posts/2026-07-15-im-investing-in-me-today.png
-title: I''m investing in me today
+title: "I'm investing in me today"
+category: diary
 ---
 That's what I told people at **Morning Startup**. This break from work I have really had fun *couch-coding*, *bed-coding *and *co-coding *(with Gemini).  
   
