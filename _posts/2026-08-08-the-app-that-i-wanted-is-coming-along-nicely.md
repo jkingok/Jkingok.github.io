@@ -29,11 +29,11 @@ Obligatory screenshots for the app are obviously hard for a location-based app. 
   
 First you Set Up the Services to look for at each Address:  
   
-![12-194](assets/img/posts/2026-08-08-the-app-that-i-wanted-is-coming-along-nicely711C3B27-69D6-4818-B3F5-953DC2A0429F.png)  
+![12-194](assets/img/posts/2026-08-08-the-app-that-i-wanted-is-coming-along-nicely/711C3B27-69D6-4818-B3F5-953DC2A0429F.png)  
 Then for each address you add you will be able to see where the nearest of those services are and what mode of transport you would use.  
-![12:19 1](assets/img/posts/2026-08-08-the-app-that-i-wanted-is-coming-along-nicely99048E34-8362-426F-84F6-3EFF0FFF0DEB.png)  
+![12:19 1](assets/img/posts/2026-08-08-the-app-that-i-wanted-is-coming-along-nicely/99048E34-8362-426F-84F6-3EFF0FFF0DEB.png)  
 And there's a nice summary home screen for all of your addresses which acts as the ranking view. More cars on this screen is not a good thing!  
-![Liveability](assets/img/posts/2026-08-08-the-app-that-i-wanted-is-coming-along-nicely7889441F-BEA5-4EF1-8C82-D419A12FA740.png)  
+![Liveability](assets/img/posts/2026-08-08-the-app-that-i-wanted-is-coming-along-nicely/7889441F-BEA5-4EF1-8C82-D419A12FA740.png)  
 It pretty much squeezes out much of the UI capabilities of iOS Toga, but I have built in the ability to jump in and out of Apple Maps itself to view addresses and directions via Rubicon.  
   
 Too many features left to add, not enougj time, as ever...  
