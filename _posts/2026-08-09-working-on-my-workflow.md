@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-08-09 12:20:50 +0800
-title:'Workingonmyworkflow '
+title: Working on my workflow
 image: assets/img/posts/2026-08-09-working-on-my-workflow.png
 ---
 It was a rainy Saturday. That freed me up for some sneaky coding.  
