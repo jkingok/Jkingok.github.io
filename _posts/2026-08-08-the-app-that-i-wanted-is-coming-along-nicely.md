@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2026-08-08 00:26:13 +0800
+categories: diary
 title: The app that I wanted is coming along nicely
 image: assets/img/posts/2026-08-08-the-app-that-i-wanted-is-coming-along-nicely.png
 ---

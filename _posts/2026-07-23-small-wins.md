@@ -2,6 +2,7 @@
 layout: post
 date: 2026-07-23 19:57:19 +0800
 title: Small wins
+categories: diary
 image: assets/img/posts/2026-07-23-small-wins.png
 ---
 So a short note to ask... is anyone really following (ha ha!) along? I probably don't need to announce every increment of little app milestones but I cleaned up the iPad version of my launcher.  

@@ -2,6 +2,7 @@
 layout: post
 date: 2026-08-13 17:50:12 +0800
 title: I made it to TestFlight Internal
+categories: diary
 image: assets/img/posts/2026-08-13-i-made-it-to-testflight-internal.png
 ---
 A milestone in my revived interest in app development. So far I have made it to TestFlight Internal.  

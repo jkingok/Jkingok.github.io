@@ -2,6 +2,7 @@
 layout: post
 date: 2026-08-18 23:02:55 +0800
 title: I gate-crashed a Bee Hive and didn't get stung
+categories: diary
 image: assets/img/posts/2026-08-18-i-gate-crashed-a-bee-hive-and-didnt-get-stung.png
 ---
   So *Discord *sent me a notification the other night and suggested I turn up to an online chat event the next morning.  

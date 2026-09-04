@@ -2,6 +2,7 @@
 layout: post
 date: 2026-08-24 07:23:27 +0800
 title: Are you one of the first
+categories: diary
 image: assets/img/posts/2026-08-24-are-you-one-of-the-first.png
 ---
 10,000 people.  

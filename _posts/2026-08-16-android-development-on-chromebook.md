@@ -2,6 +2,7 @@
 layout: post
 date: 2026-08-16 22:03:12 +0800
 title: Android Development on Chromebook
+categories: tip
 image: assets/img/posts/2026-08-16-android-development-on-chromebook.png
 ---
 Just a tip because *Gemini (c'mon Google train your intern better!) *led me down some blind alleys yesterday.  

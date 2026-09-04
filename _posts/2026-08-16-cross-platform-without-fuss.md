@@ -2,6 +2,7 @@
 layout: post
 date: 2026-08-16 22:03:12 +0800
 title: Cross-platform without fuss
+categories: diary
 image: assets/img/posts/2026-08-16-cross-platform-without-fuss.png
 ---
 So I started to explore where I was at with regards to looking beyond iPhone.  

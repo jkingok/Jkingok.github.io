@@ -2,6 +2,7 @@
 layout: post
 date: 2026-07-19 14:50:29 +0800
 title: Cross-platform is truly hard
+categories: diary
 image: assets/img/posts/2026-07-19-cross-platform-is-truly-hard.png
 ---
 I know from my previous experience of both Java and Qt that cross-platform is hard. Combine that with APIs that change over time and spare time projects that move naturally slower and you have a recipe for... glitches!  
