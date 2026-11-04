@@ -4,8 +4,6 @@ date: 2026-11-04 09:24:52 +0800
 title: Paying for Pro but I don't want to elsewhere
 categories:
 - diary
-tags:
--''
 image: assets/img/posts/2026-11-04-paying-for-pro-but-i-dont-want-to-elsewhere.png
 ---
 
